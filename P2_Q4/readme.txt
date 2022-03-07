@@ -1,0 +1,2 @@
+Given a weighted graph we this is supposed to find the shortest path between every pair of vertices in the graph, using johnsons algorithm. We have a graph that we are given G and a modified graph g'. Use bellman-ford algorith to calculate distances. If we find any negative weight, we return, we dont want any negative weights. after calculating the weighted vertices
+I put those values into an array, and used dijkstras alogrithm  and then add it to the result array.
