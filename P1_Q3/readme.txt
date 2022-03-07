@@ -1,0 +1,1 @@
+For selection sort, I used an array of 10000 size, because I read that in a piazza post. Take the index i and parse the file into an array. Perform the selection sort and send the result into the output file
