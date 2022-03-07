@@ -1,0 +1,3 @@
+Given a graph and a source in the graph, dijkstras finds the shortest path to all the vertices. Get the source by setting v to infinity and set a default value of 0 to our distance. while the shortest path does include all the vertices, pick
+a vertex which is not included and has a min distance value, include that vertex, then updatedistance value of all adjacent vertex values in relation to that vertex, which was then put into an array adj[]. Updated the values by looping through
+all the adjacent vertices, summed the distance of the source and weights, then update the distance of v.
