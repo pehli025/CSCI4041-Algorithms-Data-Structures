@@ -1,0 +1,2 @@
+for this hash table, the key was hashed and placed into a bucket. get goes throught the buckets lookiung for what the key, once found return the value associated with the key.
+put checks if the object is null or not by calling get, gets hashed and then it gets appended.
