@@ -1,0 +1,6 @@
+The assumtion here is also the same as P3, where the array size is 10000, I used 26 buckets, 1 for each letter of the alphabet, where the max number of items in a bucket is 10.
+I have variables begin and end for the starting and ending index for each bucket. Creates a new bucket itf its full. letters contains each bucket, where it is loaded into an array, sorted and loading back.
+
+To run:
+    $ g++ main.cpp
+    $ ./a.out input.txt
